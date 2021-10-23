@@ -1,0 +1,52 @@
+h1,
+h2,
+p,
+h5,
+h6 {
+  text-align: center;
+}
+h1 {
+  font-family: "Roboto", sans-serif;
+  font-size: 800;
+}
+h2 {
+  margin-bottom: 0;
+}
+h3 {
+  text-align: right;
+  position: absolute;
+  top: 7%;
+  right: 30%;
+}
+h5 {
+  font-size: xx-small;
+}
+h6 {
+  font-size: smaller;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+form {
+  display: block;
+  text-align: right;
+}
+p {
+  font-style: italic;
+  margin-bottom: 0;
+}
+.days {
+  font-weight: 900;
+  font-size: 200%;
+  text-align: center;
+}
+.emojis {
+  text-align: center;
+}
+.temp {
+  text-align: center;
+}
+.search {
+  position: absolute;
+  top: 0%;
+  right: 20%;
+}
